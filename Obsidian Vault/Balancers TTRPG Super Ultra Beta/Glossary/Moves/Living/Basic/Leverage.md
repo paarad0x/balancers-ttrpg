@@ -3,4 +3,4 @@ Use your confidence to convince someone to do something for you. Roll +[[Assuran
 Notes:
 
 Tags:
-#move #basic_move #living_move 
+#move #living_basic_move #living_move 

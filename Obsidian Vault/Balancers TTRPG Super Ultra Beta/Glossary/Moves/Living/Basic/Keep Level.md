@@ -3,4 +3,4 @@ Remain steady in a stressful situation. Roll +[[Grit]]. On a 10+, you are able t
 Notes:
 
 Tags:
-#move #basic_move #living_move 
+#move #living_basic_move #living_move 

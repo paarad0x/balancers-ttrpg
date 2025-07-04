@@ -9,4 +9,4 @@ On a 6 or less, you lose this bout and take Damage without dealing any.
 Notes:
 
 Tags:
-#move #basic_move #living_move 
+#move #living_basic_move #living_move 

@@ -11,4 +11,4 @@ On a 6 or less, the GM may ask you a question that you must answer honestly.
 Notes:
 
 Tags:
-#move #basic_move #living_move 
+#move #living_basic_move #living_move 

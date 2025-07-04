@@ -3,4 +3,4 @@ When something you can’t explain happens, try and explain it anyways-- to your
 Notes:
 
 Tags:
-#move #basic_move #living_move #balance 
+#move #living_basic_move #living_move #balance 

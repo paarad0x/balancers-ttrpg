@@ -3,4 +3,4 @@ Offer assistance to another player. Roll +[[Assurance]]. On a 10+, the player yo
 Notes:
 
 Tags:
-#move #basic_move #living_move 
+#move #living_basic_move #living_move 
