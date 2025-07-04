@@ -19,5 +19,5 @@ Q: do i need to know anything about homestuck to play this?
 A: not at all!! i'm planning to make the base game divorced from homestuck with optional homestuck add-ons
 
 # Q: how do i use this thing??
-# A: all you need from this repo is the folder "Balancers TTRPG Super Ultra Beta" in the Obsidian Vaults folder. you can use obsidian to open a vault from the folder.
+# A: download the latest release, unzip it, and open the folder "Balancers TTRPG Super Ultra Beta" as an Obsidian Vault
 
